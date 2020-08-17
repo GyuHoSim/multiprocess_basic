@@ -1,0 +1,17 @@
+.idea/
+
+__pycache__/
+*/__pycache__/*
+
+adjusted_stock/*
+venv/*
+
+*settings.py
+*setting.py
+
+*.sh
+
+
+*.csv
+*.ipynb
+test.py
